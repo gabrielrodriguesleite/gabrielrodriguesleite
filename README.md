@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with my colleagues at Trybe class.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about anything, and maybe i can help you.
-- 📫 How to reach me: call me at slack.
+- 📫 How to reach me: call me at LinkedIn.
 - 😄 Pronouns: code|learn never ends.
 - ⚡ Fun fact: almost 3 decades learning|coding|teaching.
 
