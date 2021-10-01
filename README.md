@@ -24,9 +24,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-![Snake animation](https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div>
 <img src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/output/github-contribution-grid-snake.svg">
 </div>
