@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: code|learn never ends.
 - ⚡ Fun fact: almost 3 decades learning|coding|teaching.
 
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+![Snake animation](https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/output/github-contribution-grid-snake.svg)
