@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **gabrielrodriguesleite/gabrielrodriguesleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,9 @@
 Here are some ideas to get you started:
 -->
 
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 - 🔭 I’m currently working on my github portfolio.
 - 🌱 I’m currently learning web development at Trybe.
@@ -19,10 +22,6 @@ Here are some ideas to get you started:
   
 <div>
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodriguesleite&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <div>
