@@ -48,3 +48,6 @@ Here are some ideas to get you started:
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
  -->
+<div>
+<img src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/main/Fundamentos-tgp04mkt_1638198243403.png" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
+</div>
