@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
  -->
 <div>
-<img src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/main/Fundamentos-tgp04mkt_1638198243403.png" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
+<img width="30%" src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/main/Fundamentos-tgp04mkt_1638198243403.png" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
 </div>
