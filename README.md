@@ -1,4 +1,4 @@
-# Hello World 💻 👨‍🏫
+# k_co@pc:~$ echo Hello World 💻 👨‍🏫
 
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
