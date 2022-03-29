@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: almost 3 decades learning|coding|teaching.
 
 <span>
-<img height="170px" max-width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </span>
 
 <span>
-<img height="170px" max-width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodriguesleite&layout=compact&langs_count=16&theme=dracula"/>
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodriguesleite&layout=compact&langs_count=16&theme=dracula"/>
 </span>
 
 <div>
