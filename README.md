@@ -17615,6 +17615,9 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 <span>
 <img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844523" alt="Certificado Trybe Desenvolvimento Front-End"/>
 </span>
+<span>
+<img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996982" alt="Certificado Trybe Desenvolvimento Front-End"/>
+</span>
 
 <!--
 **gabrielrodriguesleite/gabrielrodriguesleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
