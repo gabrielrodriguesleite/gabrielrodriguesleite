@@ -17624,6 +17624,8 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 ![RaspberryPi Badge](https://img.shields.io/badge/-RaspberryPi-FF3AAC?style=flat-square&logo=raspberrypi&logoColor=white)
 ![CPP Badge](https://img.shields.io/badge/-cpp-764ABC?style=flat-square&logo=Cplusplus&logoColor=white)
 ![C Badge](https://img.shields.io/badge/-c-000000?style=flat-square&logo=C&logoColor=white)
+![Assembly Badge](https://img.shields.io/badge/-RISC_Assembly-306998?style=flat-square&logo=fasm&logoColor=black)
+
 
 <span>
 <img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196290" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
