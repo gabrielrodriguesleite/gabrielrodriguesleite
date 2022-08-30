@@ -17589,28 +17589,44 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 
 # k_co@pc:~$ echo Hello World 💻 👨‍🏫
 
-![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+##### OS
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-Github-111122?style=flat-square&logo=github&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-61DAFB?style=flat-square&logo=docker&logoColor=white)
+
+##### FRONTEND
+![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
-![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![CPP Badge](https://img.shields.io/badge/-cpp-blue?style=flat-square&logo=Cplusplus&logoColor=white)
 
-<!-- 
+##### BACKEND
+![GO Badge](https://img.shields.io/badge/-GO-00D0D0?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-ABCABC?style=flat-square&logo=google&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
 ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
- -->
+![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express&logoColor=white)
+
+##### CIÊNCIA DA COMPUTAÇÃO
+![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+![Prometeus Badge](https://img.shields.io/badge/-Prometheus-FF5500?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana&logoColor=white)
+
+##### ELETRÔNICA
+![Arduino Badge](https://img.shields.io/badge/-Arduino-11AAff?style=flat-square&logo=arduino&logoColor=white)
+![RaspberryPi Badge](https://img.shields.io/badge/-RaspberryPi-FF3AAC?style=flat-square&logo=raspberrypi&logoColor=white)
+![CPP Badge](https://img.shields.io/badge/-cpp-764ABC?style=flat-square&logo=Cplusplus&logoColor=white)
+![C Badge](https://img.shields.io/badge/-c-000000?style=flat-square&logo=C&logoColor=white)
+
 <span>
-<img width="25%" src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/main/Fundamentos-tgp04mkt_1638198243403.png" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
+<img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196290" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
 </span>
 <span>
 <img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844523" alt="Certificado Trybe Desenvolvimento Front-End"/>
@@ -17618,12 +17634,6 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 <span>
 <img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996982" alt="Certificado Trybe Desenvolvimento Front-End"/>
 </span>
-
-<!--
-**gabrielrodriguesleite/gabrielrodriguesleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 - 📫 How to reach me: call me at LinkedIn. 🔗 <a href="https://www.linkedin.com/in/gabrielrodriguesleite/">LinkedIn Gabriel R. Leite</a>
 - 😄 Pronouns: code|learn never ends.
