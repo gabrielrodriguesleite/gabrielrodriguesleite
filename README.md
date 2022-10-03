@@ -17642,7 +17642,7 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 - ⚡ Fun fact: almost 3 decades learning|coding|teaching.
 
 <span>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula"/>
 </span>
 
 <span>
