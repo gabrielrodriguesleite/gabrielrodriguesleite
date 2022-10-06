@@ -17646,6 +17646,10 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 </span>
 
 <span>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrodriguesleite&theme=dracula"/>
+</span>
+
+<span>
 <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodriguesleite&layout=compact&langs_count=16&theme=dracula"/>
 </span>
 
