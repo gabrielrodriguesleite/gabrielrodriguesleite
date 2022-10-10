@@ -17589,6 +17589,8 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 
 # k_co@pc:~$ echo Hello World 💻 👨‍🏫
 
+- 📫 How to reach me: call me at LinkedIn. 🔗 <a href="https://www.linkedin.com/in/gabrielrodriguesleite/">LinkedIn Gabriel R. Leite</a>
+
 ##### OS
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -17636,10 +17638,6 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 <span>
 <img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996982" alt="Certificado Trybe Desenvolvimento Front-End"/>
 </span>
-
-- 📫 How to reach me: call me at LinkedIn. 🔗 <a href="https://www.linkedin.com/in/gabrielrodriguesleite/">LinkedIn Gabriel R. Leite</a>
-- 😄 Pronouns: code|learn never ends.
-- ⚡ Fun fact: almost 3 decades learning|coding|teaching.
 
 <span>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielrodriguesleite&show_icons=true&theme=dracula"/>
