@@ -17630,13 +17630,17 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 
 
 <span>
-<img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196290" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
+<img width="22%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196290" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
 </span>
 <span>
-<img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844523" alt="Certificado Trybe Desenvolvimento Front-End"/>
+<img width="22%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48844523" alt="Certificado Trybe Desenvolvimento Front-End"/>
 </span>
 <span>
-<img width="25%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996982" alt="Certificado Trybe Desenvolvimento Front-End"/>
+<img width="22%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55996982" alt="Certificado Trybe Desenvolvimento Back-End"/>
+</span>
+
+<span>
+<img width="22%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/59885925" alt="Certificado Trybe Desenvolvimento Web - Ciência da Computação"/>
 </span>
 
 <span>
