@@ -17628,6 +17628,8 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 ![C Badge](https://img.shields.io/badge/-c-000000?style=flat-square&logo=C&logoColor=white)
 ![Assembly Badge](https://img.shields.io/badge/-RISC_Assembly-306998?style=flat-square&logo=fasm&logoColor=black)
 
+##### GAME
+![Bleder](https://img.shields.io/badge/-blender-306998?style=flat-square&logo=blender&logoColor=orange)
 
 <span>
 <img width="22%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/42196290" alt="Certificado Trybe Fundamentos do desenvolvimento WEB"/>
