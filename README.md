@@ -17661,8 +17661,6 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 <img src="https://github.com/gabrielrodriguesleite/gabrielrodriguesleite/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<!--
 <div>
 <img src="https://www.codewars.com/users/gabrielrodriguesleite/badges/micro" />
 </div>
--->
