@@ -17591,7 +17591,7 @@ endsolid Exported from Blender-3.1.0 - Gabriel Rodrigues Leite © 2022
 
 - 📫 How to reach me: call me at LinkedIn. 🔗 <a href="https://www.linkedin.com/in/gabrielrodriguesleite/">LinkedIn Gabriel R. Leite</a>
 
-##### OS
+##### ENVIRONMENT
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-Github-111122?style=flat-square&logo=github&logoColor=white)
